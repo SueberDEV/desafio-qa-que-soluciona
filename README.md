@@ -1,6 +1,8 @@
 # Desafio QA Que Soluciona: 5 Semanas, 10 Desafios de Algoritmos em Python para QAs
 
-
+<p align="center">
+  <img src='https://github.com/SueberDEV/desafio-qa-que-soluciona/blob/main/IMG/41fl78jphsL.jpg' width='350'>
+  </p>
 
 Bem-vindo ao **Desafio QA Que Soluciona**! Este projeto emocionante foi criado por Paulo Oliveira, um engenheiro de Qualidade de Software com mais de 17 anos de experiência na área de qualidade, mentor e professor. Paulo, junto com a **Expert QA Academy**, que oferece cursos e mentorias em Qualidade de Software.
 
